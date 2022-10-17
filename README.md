@@ -2,7 +2,7 @@
 
 这里是我个人训练的自用模型
 
-`embeddings`文件夹下最新版本的`pt`模型
+`embeddings`文件夹下是最新版本的`pt`模型
 
 `textual_inversion`文件夹下是训练过程中产生的中间版本 大家可以自行根据喜好获取
 
