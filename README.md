@@ -23,5 +23,5 @@
 后续有更新也会往这里上传
 
 效果图
-![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/SKF4ZB2ZFP1R)%25%40KFT%5B5(66.png)
+![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E7%94%9F%E6%88%90%E5%B1%95%E7%A4%BA.png)
 
