@@ -25,3 +25,10 @@
 效果图
 ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E7%94%9F%E6%88%90%E5%B1%95%E7%A4%BA.png)
 
+![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%88%90%E5%93%81%E5%9B%BE/02681-2425705406-%2C%20white%20hair%20%2C(nahida)%2C%20(keta-5300).png)
+
+![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%88%90%E5%93%81%E5%9B%BE/02730-3867066413-%2C%20white%20hair%20%2Cnahida%2C%20(keta).png)
+
+![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%88%90%E5%93%81%E5%9B%BE/02928-2393729360-white%20hair%2C%20nahida%2C%20%20keta.png)
+
+![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%88%90%E5%93%81%E5%9B%BE/02955-3962985033-white%20hair%2C%20nahida%2C%20keta%2C%20side%20ponytail%2C%20elf.png)
