@@ -25,6 +25,7 @@
   - ~~目前生成的图眼睛都不太对 我试着结合nahida模型使用，眼睛会比较正常 大家可以先试试看~~
   - ~~我尝试配合其他tag使用 生成的图眼睛还好 有空我看看再训练一下模型试试~~
   - **根据大佬的设置修改之后生成的图片效果有所改善 眼睛也正常了 主要是设置【Eta noise seed delta】为31337**
+  - 最新效果图请往下看
   
   【【NovelAI】让你的本地版与官网输出完全一致！最新Stable Diffusion WebUI设置】 https://www.bilibili.com/video/BV1nP411N7CG?share_source=copy_web&vd_source=e79365640d1097b8c8937eac877c95bd
 
@@ -43,9 +44,6 @@
 
 - gbf
 
-  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%88%90%E5%93%81%E5%9B%BE/gbf/03277-195836076-gbf%2C%20%7B%7Bmasterpiece%7D%7D%2C%20ahoge%2C%20high%20twintail%2C%20small%20breasts%2C%20little%20girl%2C%20smile%2C%20shiny%20skin%2C%20devil%20wing%2C%20Pink%20hair%2CCotton%20socks%2C%20W.png)
-  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%88%90%E5%93%81%E5%9B%BE/gbf/03258-1609331682-1girl%2C%20highly%20detailed%2C%20extremely%20detailed%20CG%20unity%208k%20wallpaper%2C%20gbf%2C%20%20(((masterpice)))%2C%20full%20body%2C%20(((stand)))%2C%20white%20hair%2C%20lo.png)
-  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%88%90%E5%93%81%E5%9B%BE/gbf/03265-3935358184-1girl%2C%20gbf%2C%20full%20body%2C%20(((stand)))%2C%20white%20hair%2C%20long%20hair%2C%20big%20eyes.png)
-  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%88%90%E5%93%81%E5%9B%BE/gbf/03200-4003175738-white%20hair%2C%20nahida%2C%20gbf%2C%20%20side%20ponytail%2C%20elf%2C%20%20(((masterpice)))%2C%20full%20body%2C%20%7B%7B%7Bstand%7D%7D%7D%2C%201girl%2C%20masterpiece%2C%20highly%20detailed%2C%20ex.png)
-  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%88%90%E5%93%81%E5%9B%BE/gbf/03210-465584162-(((stand)))%2Cwhite%20hair%2C%20nahida%2C%20gbf%2C%20%20side%20ponytail%2C%20elf%2C%20%20(((masterpice)))%2C%20full%20body%2C%201girl%2C%20masterpiece%2C%20highly%20detailed%2C%20ext.png)
-  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%88%90%E5%93%81%E5%9B%BE/gbf/03212-1249031844-white%20hair%2C%20nahida%2C%20gbf%2C%20%20side%20ponytail%2C%20elf%2C%20%20(((masterpice)))%2C%20full%20body%2C%20(((stand)))%2C%201girl%2C%20masterpiece%2C%20highly%20detailed%2C%20ex.png)
+  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%88%90%E5%93%81%E5%9B%BE/gbf/%E4%BF%AE%E6%94%B9%E8%AE%BE%E7%BD%AE%E4%B9%8B%E5%90%8E%E7%9A%84%E6%95%88%E6%9E%9C%E5%9B%BE/03556-1573251876-gbf.png)
+  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%88%90%E5%93%81%E5%9B%BE/gbf/%E4%BF%AE%E6%94%B9%E8%AE%BE%E7%BD%AE%E4%B9%8B%E5%90%8E%E7%9A%84%E6%95%88%E6%9E%9C%E5%9B%BE/03557-350437287-gbf.png)
+  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%88%90%E5%93%81%E5%9B%BE/gbf/%E4%BF%AE%E6%94%B9%E8%AE%BE%E7%BD%AE%E4%B9%8B%E5%90%8E%E7%9A%84%E6%95%88%E6%9E%9C%E5%9B%BE/03558-342862894-gbf.png)
