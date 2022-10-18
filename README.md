@@ -42,7 +42,7 @@
 
 ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%88%90%E5%93%81%E5%9B%BE/02955-3962985033-white%20hair%2C%20nahida%2C%20keta%2C%20side%20ponytail%2C%20elf.png)
 
-- gbf(*NEW*)
+- gbf(*new*)
 
   ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%88%90%E5%93%81%E5%9B%BE/gbf/%E4%BF%AE%E6%94%B9%E8%AE%BE%E7%BD%AE%E4%B9%8B%E5%90%8E%E7%9A%84%E6%95%88%E6%9E%9C%E5%9B%BE/03556-1573251876-gbf.png)
   ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%88%90%E5%93%81%E5%9B%BE/gbf/%E4%BF%AE%E6%94%B9%E8%AE%BE%E7%BD%AE%E4%B9%8B%E5%90%8E%E7%9A%84%E6%95%88%E6%9E%9C%E5%9B%BE/03557-350437287-gbf.png)
