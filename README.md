@@ -40,6 +40,7 @@
 
 - gbf
 
+  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%88%90%E5%93%81%E5%9B%BE/gbf/03277-195836076-gbf%2C%20%7B%7Bmasterpiece%7D%7D%2C%20ahoge%2C%20high%20twintail%2C%20small%20breasts%2C%20little%20girl%2C%20smile%2C%20shiny%20skin%2C%20devil%20wing%2C%20Pink%20hair%2CCotton%20socks%2C%20W.png)
   ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%88%90%E5%93%81%E5%9B%BE/gbf/03258-1609331682-1girl%2C%20highly%20detailed%2C%20extremely%20detailed%20CG%20unity%208k%20wallpaper%2C%20gbf%2C%20%20(((masterpice)))%2C%20full%20body%2C%20(((stand)))%2C%20white%20hair%2C%20lo.png)
   ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%88%90%E5%93%81%E5%9B%BE/gbf/03265-3935358184-1girl%2C%20gbf%2C%20full%20body%2C%20(((stand)))%2C%20white%20hair%2C%20long%20hair%2C%20big%20eyes.png)
   ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%88%90%E5%93%81%E5%9B%BE/gbf/03200-4003175738-white%20hair%2C%20nahida%2C%20gbf%2C%20%20side%20ponytail%2C%20elf%2C%20%20(((masterpice)))%2C%20full%20body%2C%20%7B%7B%7Bstand%7D%7D%7D%2C%201girl%2C%20masterpiece%2C%20highly%20detailed%2C%20ex.png)
