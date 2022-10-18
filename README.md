@@ -6,6 +6,12 @@
 
 `textual_inversion`文件夹下是训练过程中产生的中间版本 大家可以自行根据喜好获取
 
+在使用之前**必须**先修改一下设置：
+- **把setting中的【Stop At last layers of CLIP model】改成2才能生效**
+
+可选修改项：
+- 【Eta noise seed delta】修改为31337
+- 修改后与官方novelai设置相同 本人训练的gbf模型在修改后生成的眼睛会变得正常
 
 
 目前包含模型有：
