@@ -43,8 +43,9 @@ magnet:?xt=urn:btih:5bde442da86265b670a3e5ea3163afad2c6f8ecc&dn=novelaileak&tr=u
   - ~~目前生成的图眼睛都不太对 我试着结合nahida模型使用，眼睛会比较正常 大家可以先试试看~~
   - ~~我尝试配合其他tag使用 生成的图眼睛还好 有空我看看再训练一下模型试试~~
   - **根据大佬的设置修改之后生成的图片效果有所改善 眼睛也正常了 主要是设置【Eta noise seed delta】为31337**
-  - **最新效果图请往下看**
+  - ~~最新效果图请往下看~~
   - gbf模型又训练了下 目前到了15000steps版本（新）
+  - 效果图我就不往这个文档里放了 请前往【效果图】文件夹下查看
   
   【【NovelAI】让你的本地版与官网输出完全一致！最新Stable Diffusion WebUI设置】 https://www.bilibili.com/video/BV1nP411N7CG?share_source=copy_web&vd_source=e79365640d1097b8c8937eac877c95bd
 
