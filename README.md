@@ -15,6 +15,7 @@ magnet:?xt=urn:btih:5bde442da86265b670a3e5ea3163afad2c6f8ecc&dn=novelaileak&tr=u
 
 放到stable-diffusion-webui\models\Stable-diffusion目录下 只需下载animefull-final-pruned(3.97GB)或者animefull-latest(7.17GB)即可
 
+
 在使用之前**必须**先修改一下设置：
 - **把setting中的【Stop At last layers of CLIP model】改成2才能生效**
 
