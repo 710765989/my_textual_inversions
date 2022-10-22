@@ -2,6 +2,9 @@
 
 这里是我个人训练的自用模型
 
+* 更新gbf马琪拉（鸡）角色模型
+* 效果图 https://github.com/710765989/my_textual_inversions/tree/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%88%90%E5%93%81%E5%9B%BE/gbf/makira
+
 `embeddings`文件夹下是最新版本的`pt`模型
 
 `textual_inversion`文件夹下是训练过程中产生的中间版本 大家可以自行根据喜好获取
@@ -30,6 +33,7 @@ magnet:?xt=urn:btih:5bde442da86265b670a3e5ea3163afad2c6f8ecc&dn=novelaileak&tr=u
 
 - nahida：原神草神-纳西妲
 - koharu：碧蓝档案-小春（新）
+- makira：碧蓝幻想-十二神将-鸡-马琪拉（新）
 
 风格模型：
 
