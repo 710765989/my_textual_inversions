@@ -22,7 +22,7 @@ magnet:?xt=urn:btih:5bde442da86265b670a3e5ea3163afad2c6f8ecc&dn=novelaileak&tr=u
 # 更新历史：
 - 2022.10.17
   - 原神-纳西妲角色模型（nahida）
-  - keta模型（keta）
+  - keta画风模型（keta）
 - 2022.10.22 碧蓝幻想-玛琪拉（鸡神将）角色模型（makira）
 - 2022.10.25 
   - 【碧蓝航线-小天城】角色模型（amagi_chan）
