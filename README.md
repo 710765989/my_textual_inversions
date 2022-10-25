@@ -30,6 +30,7 @@ magnet:?xt=urn:btih:5bde442da86265b670a3e5ea3163afad2c6f8ecc&dn=novelaileak&tr=u
   - 重制了keta画风模型 在nsfw上似乎好了一些（keta-nsfw）
 
 如果生成效果有问题请尝试根据以下链接进行设置之后再尝试：
+
 【【NovelAI】让你的本地版与官网输出完全一致！最新Stable Diffusion WebUI设置】 https://www.bilibili.com/video/BV1nP411N7CG?share_source=copy_web&vd_source=e79365640d1097b8c8937eac877c95bd
 
 在使用之前**必须**先修改一下设置：
