@@ -2,15 +2,6 @@
 
 这里是我个人训练的自用模型
 
-- 2022.10.17
-  - 原神-纳西妲角色模型（nahida）
-  - keta模型（keta）
-- 2022.10.22 碧蓝幻想-玛琪拉（鸡神将）角色模型（makira）
-- 2022.10.25 
-  - 【碧蓝航线-小天城】角色模型（amagi_chan）
-  - 【公主连接-可可萝】角色模型（kkr）
-  - 重制了keta画风模型 在nsfw上似乎好了一些（keta-nsfw）
-
 `embeddings`文件夹下是最新版本的`pt`模型
 
 `textual_inversion`文件夹下是训练过程中产生的中间版本 大家可以自行根据喜好获取
@@ -25,6 +16,15 @@ magnet:?xt=urn:btih:5bde442da86265b670a3e5ea3163afad2c6f8ecc&dn=novelaileak&tr=u
 放到stable-diffusion-webui\models\Stable-diffusion目录下 只需下载animefull-final-pruned(3.97GB)或者animefull-latest(7.17GB)即可
 个人主要使用animefull-latest.ckpt和animesfw-latest.ckpt两个模型
 如果pt模型生成效果不正确请切换到对应ckpt模型再试试
+
+- 2022.10.17
+  - 原神-纳西妲角色模型（nahida）
+  - keta模型（keta）
+- 2022.10.22 碧蓝幻想-玛琪拉（鸡神将）角色模型（makira）
+- 2022.10.25 
+  - 【碧蓝航线-小天城】角色模型（amagi_chan）
+  - 【公主连接-可可萝】角色模型（kkr）
+  - 重制了keta画风模型 在nsfw上似乎好了一些（keta-nsfw）
 
 如果生成效果有问题请尝试根据以下链接进行设置之后再尝试：
 【【NovelAI】让你的本地版与官网输出完全一致！最新Stable Diffusion WebUI设置】 https://www.bilibili.com/video/BV1nP411N7CG?share_source=copy_web&vd_source=e79365640d1097b8c8937eac877c95bd
