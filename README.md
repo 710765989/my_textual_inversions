@@ -85,7 +85,7 @@ magnet:?xt=urn:btih:5bde442da86265b670a3e5ea3163afad2c6f8ecc&dn=novelaileak&tr=u
 </details>
 
 <details>
-  <summary>keta(**nsfw注意**)</summary>
+  <summary>keta（nsfw注意）</summary>
   
   ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/keta-nsfw.jpg)
 </details>
