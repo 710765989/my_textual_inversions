@@ -3,7 +3,10 @@
 这里是我个人训练的自用模型
 
 * 2022.10.22 更新gbf马琪拉（鸡）角色模型
-* 效果图 https://github.com/710765989/my_textual_inversions/tree/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%88%90%E5%93%81%E5%9B%BE/gbf/makira
+* 2022.10.25 
+  - 更新【碧蓝航线-小天城】角色模型
+  - 更新【公主连接-可可萝】角色模型
+  - 重制了一遍keta模型 在nsfw上似乎好了一些
 
 `embeddings`文件夹下是最新版本的`pt`模型
 
@@ -17,6 +20,7 @@ https://github.com/AUTOMATIC1111/stable-diffusion-webui
 magnet:?xt=urn:btih:5bde442da86265b670a3e5ea3163afad2c6f8ecc&dn=novelaileak&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2810%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce
 
 放到stable-diffusion-webui\models\Stable-diffusion目录下 只需下载animefull-final-pruned(3.97GB)或者animefull-latest(7.17GB)即可
+个人主要使用animefull-latest.ckpt和animesfw-latest.ckpt两个模型
 
 
 在使用之前**必须**先修改一下设置：
@@ -32,8 +36,10 @@ magnet:?xt=urn:btih:5bde442da86265b670a3e5ea3163afad2c6f8ecc&dn=novelaileak&tr=u
 角色模型：
 
 - nahida：原神草神-纳西妲 2022.10.17
-- koharu：碧蓝档案-小春（新）2022.10.20
-- makira：碧蓝幻想-十二神将-鸡-马琪拉（新）2022.10.22
+- koharu：碧蓝档案-小春 2022.10.20
+- makira：碧蓝幻想-十二神将-鸡-马琪拉 2022.10.22
+- amagi_chan：碧蓝航线-小天城 2022.10.25
+- kkr：公主连接-可可萝 2022.10.25
 
 风格模型：
 
@@ -41,6 +47,7 @@ magnet:?xt=urn:btih:5bde442da86265b670a3e5ea3163afad2c6f8ecc&dn=novelaileak&tr=u
   - 画风超棒的东方知名画师
   - **nsfw!** 目前选用了18600step版本 20000版本感觉有点用力过猛
   - 结合上边的纳西妲模型进行使用效果拔群，单独使用，使用得当的话也能得到不错的图
+  - 进行了重制keta-nsfw
 - gbf(2022.10.20更新)：
   - blhx就不用多说了 大家都知道的对吧()
   - ~~暂时训练了1万steps 效果还不够理想~~
