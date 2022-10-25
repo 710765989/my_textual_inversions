@@ -2,11 +2,14 @@
 
 这里是我个人训练的自用模型
 
-* 2022.10.22 更新gbf马琪拉（鸡）角色模型
-* 2022.10.25 
-  - 更新【碧蓝航线-小天城】角色模型
-  - 更新【公主连接-可可萝】角色模型
-  - 重制了一遍keta模型 在nsfw上似乎好了一些
+- 2022.10.17
+  - 原神-纳西妲角色模型（nahida）
+  - keta模型（keta）
+- 2022.10.22 碧蓝幻想-玛琪拉（鸡神将）角色模型（makira）
+- 2022.10.25 
+  - 【碧蓝航线-小天城】角色模型（amagi_chan）
+  - 【公主连接-可可萝】角色模型（kkr）
+  - 重制了keta画风模型 在nsfw上似乎好了一些（keta-nsfw）
 
 `embeddings`文件夹下是最新版本的`pt`模型
 
@@ -21,7 +24,7 @@ magnet:?xt=urn:btih:5bde442da86265b670a3e5ea3163afad2c6f8ecc&dn=novelaileak&tr=u
 
 放到stable-diffusion-webui\models\Stable-diffusion目录下 只需下载animefull-final-pruned(3.97GB)或者animefull-latest(7.17GB)即可
 个人主要使用animefull-latest.ckpt和animesfw-latest.ckpt两个模型
-
+如果pt模型生成效果不正确请切换到对应ckpt模型再试试
 
 在使用之前**必须**先修改一下设置：
 - **把setting中的【Stop At last layers of CLIP model】改成2才能生效**
@@ -47,8 +50,7 @@ magnet:?xt=urn:btih:5bde442da86265b670a3e5ea3163afad2c6f8ecc&dn=novelaileak&tr=u
   - 画风超棒的东方知名画师
   - **nsfw!** 目前选用了18600step版本 20000版本感觉有点用力过猛
   - 结合上边的纳西妲模型进行使用效果拔群，单独使用，使用得当的话也能得到不错的图
-  - 进行了重制keta-nsfw
-- gbf(2022.10.20更新)：
+- gbf(2022.10.20)：
   - blhx就不用多说了 大家都知道的对吧()
   - ~~暂时训练了1万steps 效果还不够理想~~
   - 训练生成的图看起来全都跟意面画风似的（笑）
@@ -58,6 +60,8 @@ magnet:?xt=urn:btih:5bde442da86265b670a3e5ea3163afad2c6f8ecc&dn=novelaileak&tr=u
   - ~~最新效果图请往下看~~
   - gbf模型又训练了下 目前到了15000steps版本（新）
   - 效果图我就不往这个文档里放了 请前往【效果图】文件夹下查看
+- keta-nsfw(2022.10.25)：
+  - 对keta画风模型进行了重制
   
   【【NovelAI】让你的本地版与官网输出完全一致！最新Stable Diffusion WebUI设置】 https://www.bilibili.com/video/BV1nP411N7CG?share_source=copy_web&vd_source=e79365640d1097b8c8937eac877c95bd
 
