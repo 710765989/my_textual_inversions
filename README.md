@@ -17,6 +17,8 @@ magnet:?xt=urn:btih:5bde442da86265b670a3e5ea3163afad2c6f8ecc&dn=novelaileak&tr=u
 
 放到stable-diffusion-webui\models\Stable-diffusion目录下 只需下载animefull-final-pruned(3.97GB)或者animefull-latest(7.17GB)即可
 
+---
+
 个人主要使用animefull-latest.ckpt和animesfw-latest.ckpt两个模型
 
 如果pt模型生成效果不正确请切换到对应ckpt模型再试试
