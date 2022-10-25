@@ -79,8 +79,6 @@ magnet:?xt=urn:btih:5bde442da86265b670a3e5ea3163afad2c6f8ecc&dn=novelaileak&tr=u
 
 ![原神-纳西妲](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E7%BA%B3%E8%A5%BF%E5%A6%B2.jpg)
 
-- gbf(*new*)
+gbf
 
-  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%88%90%E5%93%81%E5%9B%BE/gbf/%E4%BF%AE%E6%94%B9%E8%AE%BE%E7%BD%AE%E4%B9%8B%E5%90%8E%E7%9A%84%E6%95%88%E6%9E%9C%E5%9B%BE/03556-1573251876-gbf.png)
-  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%88%90%E5%93%81%E5%9B%BE/gbf/%E4%BF%AE%E6%94%B9%E8%AE%BE%E7%BD%AE%E4%B9%8B%E5%90%8E%E7%9A%84%E6%95%88%E6%9E%9C%E5%9B%BE/03557-350437287-gbf.png)
-  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%88%90%E5%93%81%E5%9B%BE/gbf/%E4%BF%AE%E6%94%B9%E8%AE%BE%E7%BD%AE%E4%B9%8B%E5%90%8E%E7%9A%84%E6%95%88%E6%9E%9C%E5%9B%BE/03558-342862894-gbf.png)
+  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/gbf.jpg)
