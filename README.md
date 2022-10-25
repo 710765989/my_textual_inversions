@@ -41,7 +41,7 @@ magnet:?xt=urn:btih:5bde442da86265b670a3e5ea3163afad2c6f8ecc&dn=novelaileak&tr=u
 - 修改后与官方novelai设置相同
 
 
-# 目前包含模型有：
+# 目前包含模型
 
 角色模型：
 
