@@ -19,6 +19,7 @@ magnet:?xt=urn:btih:5bde442da86265b670a3e5ea3163afad2c6f8ecc&dn=novelaileak&tr=u
 
 如果pt模型生成效果不正确请切换到对应ckpt模型再试试
 
+# 更新历史：
 - 2022.10.17
   - 原神-纳西妲角色模型（nahida）
   - keta模型（keta）
