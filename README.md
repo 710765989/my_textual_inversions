@@ -79,10 +79,26 @@ magnet:?xt=urn:btih:5bde442da86265b670a3e5ea3163afad2c6f8ecc&dn=novelaileak&tr=u
 
 ![原神-纳西妲](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E7%BA%B3%E8%A5%BF%E5%A6%B2.jpg)
 
+keta-nsfw
+
+![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/keta-nsfw.jpg)
+
 gbf
 
 ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/gbf.jpg)
   
 碧蓝档案-小春
 
-![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E5%B0%8F%E6%98%A5.jpg)
+![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E7%A2%A7%E8%93%9D%E6%A1%A3%E6%A1%88-%E5%B0%8F%E6%98%A5.jpg)
+
+gbf-玛琪拉
+
+![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/gbf-%E7%8E%9B%E7%90%AA%E6%8B%89.jpg)
+
+公主连接-可可萝
+
+![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E5%85%AC%E4%B8%BB%E8%BF%9E%E6%8E%A5-%E5%8F%AF%E5%8F%AF%E8%90%9D.jpg)
+
+碧蓝航线-小天城
+
+![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E7%A2%A7%E8%93%9D%E8%88%AA%E7%BA%BF-%E5%B0%8F%E5%A4%A9%E5%9F%8E.jpg)
