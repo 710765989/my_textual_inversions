@@ -75,6 +75,8 @@ magnet:?xt=urn:btih:5bde442da86265b670a3e5ea3163afad2c6f8ecc&dn=novelaileak&tr=u
 # 效果图
 ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E7%94%9F%E6%88%90%E5%B1%95%E7%A4%BA.png)
 
+原神-纳西妲
+
 ![原神-纳西妲](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E7%BA%B3%E8%A5%BF%E5%A6%B2.jpg)
 
 - gbf(*new*)
