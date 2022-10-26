@@ -50,7 +50,7 @@
   - 把settings中的【Stop At last layers of CLIP model】改成2才能生效 (*如果没有这个选项请更新webui的代码)
 
 <details>
-  <summary>点击查看本人设置</summary>
+  <summary>点击查看我的设置</summary>
 
   ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/setting1.png)
 
