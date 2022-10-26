@@ -15,7 +15,9 @@
 
 >magnet:?xt=urn:btih:5bde442da86265b670a3e5ea3163afad2c6f8ecc&dn=novelaileak&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2810%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce
 
-放到stable-diffusion-webui\models\Stable-diffusion目录下 不用全部下载 下载需要的即可
+下载的ckpt模型放到`stable-diffusion-webui\models\Stable-diffusion`目录下
+
+不用全部下载 下载需要的即可
 
 ---
 
@@ -35,20 +37,20 @@
 
 # Q&A
 
-## 1.怎么使用pt模型？
+1.怎么使用pt模型？
 
-1.将下载的pt模型文件放到`stable-diffusion-webui\embeddings`目录下
+  1.将下载的pt模型文件放到`stable-diffusion-webui\embeddings`目录下
 
-2.在描述词区域填写pt文件名作为prompt
-  - 例：【nahida.pt】 输入prompt为【nahida】 
-  - 可以任意更改pt文件名，例：【nahida.pt】->【genshin_nahida.pt】 输入prompt为【genshin_nahida】
+  2.在描述词区域填写pt文件名作为prompt
+    - 例：【nahida.pt】 输入prompt为【nahida】 
+    - 可以任意更改pt文件名，例：【nahida.pt】->【genshin_nahida.pt】 输入prompt为【genshin_nahida】
 
-## 2.我生成的图跟你的怎么不一样？
-1.首先确保使用的sd模型文件为【animefull-latest.ckpt[**e6e8elfc**]】或者【animesfw-latest.ckpt[**202fcec0**]】
+2.我生成的图跟你的怎么不一样？
+  1.首先确保使用的sd模型文件为【animefull-latest.ckpt[**e6e8elfc**]】或者【animesfw-latest.ckpt[**202fcec0**]】
 
-  - 不要看文件名 看文件名后面的**哈希码** 文件名可以随意修改 哈希码不能 确保使用的是以上两个sd模型才能保证跟我生成的效果一致
+    - 不要看文件名 看文件名后面的**哈希码** 文件名可以随意修改 哈希码不能 确保使用的是以上两个sd模型才能保证跟我生成的效果一致
 
-2.把settings中的【Stop At last layers of CLIP model】改成2才能生效 (*如果没有这个选项请更新webui的代码)
+  2.把settings中的【Stop At last layers of CLIP model】改成2才能生效 (*如果没有这个选项请更新webui的代码)
 
 <details>
   <summary>点击查看本人设置</summary>
