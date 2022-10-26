@@ -10,10 +10,10 @@
 
 ---
 
-webui项目地址：
+官方webui项目地址：
 >https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
-50g完整ckpt模型下载地址：
+52g完整sd模型下载地址：
 
 >magnet:?xt=urn:btih:5bde442da86265b670a3e5ea3163afad2c6f8ecc&dn=novelaileak&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2810%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce
 
