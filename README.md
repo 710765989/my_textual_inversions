@@ -2,6 +2,8 @@
 
 这里是我个人训练的自用模型
 
+本人的模型都是基于Stable Diffusion来进行训练 其他的waifu、naifu等我没有安装过，不确定是否能使用
+
 `embeddings`文件夹下是最新版本的`pt`模型
 
 `textual_inversion`文件夹下是训练过程中产生的中间版本 大家可以自行根据喜好获取（停止更新）
@@ -19,20 +21,9 @@ magnet:?xt=urn:btih:5bde442da86265b670a3e5ea3163afad2c6f8ecc&dn=novelaileak&tr=u
 
 ---
 
-个人主要使用animefull-latest.ckpt和animesfw-latest.ckpt两个模型
-
-如果pt模型生成效果不正确请切换到对应ckpt模型再试试
-
 如果生成效果有问题请尝试根据以下链接进行设置之后再尝试：
 
 【【NovelAI】让你的本地版与官网输出完全一致！最新Stable Diffusion WebUI设置】 https://www.bilibili.com/video/BV1nP411N7CG?share_source=copy_web&vd_source=e79365640d1097b8c8937eac877c95bd
-
-在使用之前**必须**先修改一下设置：
-- **把setting中的【Stop At last layers of CLIP model】改成2才能生效**
-
-可选修改项：
-- 【Eta noise seed delta】修改为31337
-- 修改后与官方novelai设置相同
 
 # 更新历史：
 - 2022.10.17
@@ -43,6 +34,26 @@ magnet:?xt=urn:btih:5bde442da86265b670a3e5ea3163afad2c6f8ecc&dn=novelaileak&tr=u
   - 【碧蓝航线-小天城】角色模型（amagi_chan）
   - 【公主连接-可可萝】角色模型（kkr）
   - 重制了keta画风模型 在nsfw上似乎好了一些（keta-nsfw）
+
+# Q&A
+## 怎么使用pt模型？
+1.将下载的pt模型文件放到`stable-diffusion-webui\embeddings`目录下
+2.在描述词区域填写pt文件名作为prompt
+  - 例：【nahida.pt】 输入prompt为【nahida】 
+  - 可以任意更改pt文件名，例：【nahida.pt】->【genshin_nahida.pt】 输入prompt为【genshin_nahida】
+  
+## 我生成的图跟你的怎么不一样？
+1.首先确保使用的sd模型文件为【animefull-latest.ckpt[e6e8elfc]】或者【animesfw-latest.ckpt[202fcec0]】
+  - 不要看文件名 看文件名后面的哈希码 文件名可以随意修改 哈希码不能 确保使用的以上两个sd模型才能保证跟我生成的效果一致
+2.把settings中的【Stop At last layers of CLIP model】改成2才能生效 (*如果没有这个选项请更新webui的代码)
+
+<details>
+  <summary>点击查看本人设置</summary>
+  
+  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/setting1.png)
+  
+  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/setting2.png)
+</details>
 
 # 目前包含模型
 
