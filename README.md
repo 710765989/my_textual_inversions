@@ -46,7 +46,7 @@ webui项目地址：
   - 可以任意更改pt文件名，例：【nahida.pt】->【genshin_nahida.pt】 输入prompt为【genshin_nahida】
 
 ## 2.我生成的图跟你的怎么不一样？
-1.首先确保使用的sd模型文件为【animefull-latest.ckpt[e6e8elfc]】或者【animesfw-latest.ckpt[202fcec0]】
+1.首先确保使用的sd模型文件为【animefull-latest.ckpt[**e6e8elfc**]】或者【animesfw-latest.ckpt[**202fcec0**]】
 
   - 不要看文件名 看文件名后面的**哈希码** 文件名可以随意修改 哈希码不能 确保使用的是以上两个sd模型才能保证跟我生成的效果一致
 
