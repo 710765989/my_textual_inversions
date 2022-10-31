@@ -148,13 +148,13 @@
 </details>
 
 <details>
-  <summary>风格-as109</summary>
+  <summary>风格-as109（nsfw注意）</summary>
   
   ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/as109.jpg)
 </details>
 
 <details>
-  <summary>风格-毛玉牛乳</summary>
+  <summary>风格-毛玉牛乳（nsfw注意）</summary>
   
   ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/kedama.jpg)
 </details>
