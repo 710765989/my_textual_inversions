@@ -100,13 +100,13 @@
 </details>
 
 <details>
-  <summary>keta（nsfw注意）</summary>
+  <summary>风格-keta（nsfw注意）</summary>
   
   ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/keta-nsfw.jpg)
 </details>
 
 <details>
-  <summary>gbf画风</summary>
+  <summary>风格-gbf</summary>
   
   ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/gbf.jpg)
 </details>
@@ -118,7 +118,7 @@
 </details>
 
 <details>
-  <summary>gbf-玛琪拉</summary>
+  <summary>碧蓝幻想-玛琪拉</summary>
   
   ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/gbf-%E7%8E%9B%E7%90%AA%E6%8B%89.jpg)
 </details>
@@ -133,4 +133,28 @@
   <summary>碧蓝航线-小天城</summary>
   
   ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E7%A2%A7%E8%93%9D%E8%88%AA%E7%BA%BF-%E5%B0%8F%E5%A4%A9%E5%9F%8E.jpg)
+</details>
+
+<details>
+  <summary>碧蓝档案-美游</summary>
+  
+  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E7%A2%A7%E8%93%9D%E6%A1%A3%E6%A1%88-%E7%BE%8E%E6%B8%B8.jpg)
+</details>
+
+<details>
+  <summary>碧蓝档案-梓</summary>
+  
+  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E7%A2%A7%E8%93%9D%E6%A1%A3%E6%A1%88-%E6%A2%93.jpg)
+</details>
+
+<details>
+  <summary>风格-as109</summary>
+  
+  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/as109.jpg)
+</details>
+
+<details>
+  <summary>风格-毛玉牛乳</summary>
+  
+  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/kedama.jpg)
 </details>
