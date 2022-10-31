@@ -4,7 +4,7 @@
 
 本人的模型都是基于Stable Diffusion来进行训练 其他的waifu、naifu等我没有安装过，不确定是否能使用
 
-[点击前往本人B站首页](https://space.bilibili.com/4149006)
+[>>点击前往本人B站首页<<](https://space.bilibili.com/4149006)
 
 `embeddings`文件夹下是最新版本的`pt`模型
 
