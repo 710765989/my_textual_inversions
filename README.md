@@ -4,6 +4,8 @@
 
 本人的模型都是基于Stable Diffusion来进行训练 其他的waifu、naifu等我没有安装过，不确定是否能使用
 
+[点击前往本人B站首页](https://space.bilibili.com/4149006)
+
 `embeddings`文件夹下是最新版本的`pt`模型
 
 `textual_inversion`文件夹下是训练过程中产生的中间版本 大家可以自行根据喜好获取（停止更新）
