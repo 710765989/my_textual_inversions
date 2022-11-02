@@ -29,13 +29,24 @@
 
 # 更新历史：
 - 2022.10.17
-  - 原神-纳西妲角色模型（nahida）
-  - keta画风模型（keta）
+  - 角色模型
+    - 【原神-纳西妲】（nahida）
+  - 风格模型
+    - keta（keta）
 - 2022.10.22 碧蓝幻想-玛琪拉（鸡神将）角色模型（makira）
 - 2022.10.25 
-  - 【碧蓝航线-小天城】角色模型（amagi_chan）
-  - 【公主连接-可可萝】角色模型（kkr）
-  - 重制了keta画风模型 在nsfw上似乎好了一些（keta-nsfw）
+  - 角色模型
+    - 【碧蓝航线-小天城】（amagi_chan）
+    - 【公主连接-可可萝】（kkr）
+  - 风格模型
+    - 重制了keta画风模型 在nsfw上似乎好了一些（keta-nsfw）
+- 2022.10.31
+  - 角色模型
+    - 【碧蓝档案-梓】（amagi_chan）
+    - 【碧蓝档案-美游】（amagi_chan）
+  - 风格模型
+    - 水叔 as109
+    - 毛玉牛乳 kedama
 
 # Q&A
 
@@ -68,6 +79,8 @@
 - makira：碧蓝幻想-十二神将-鸡-玛琪拉 2022.10.22
 - amagi_chan：碧蓝航线-小天城 2022.10.25
 - kkr：公主连接-可可萝 2022.10.25
+- azusa：碧蓝档案-梓
+- miyu：碧蓝档案-美游
 
 风格模型：
 
@@ -87,6 +100,10 @@
   - 效果图我就不往这个文档里放了 请往下查看
 - keta-nsfw(2022.10.25)：
   - 对keta画风模型进行了重制
+- as109（nsfw）
+  - 水叔
+- kedama
+  - 毛玉牛乳
 
 后续有更新也会往这里上传
 
@@ -100,13 +117,13 @@
 </details>
 
 <details>
-  <summary>keta（nsfw注意）</summary>
+  <summary>风格-keta（nsfw注意）</summary>
   
   ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/keta-nsfw.jpg)
 </details>
 
 <details>
-  <summary>gbf画风</summary>
+  <summary>风格-gbf</summary>
   
   ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/gbf.jpg)
 </details>
@@ -118,7 +135,7 @@
 </details>
 
 <details>
-  <summary>gbf-玛琪拉</summary>
+  <summary>碧蓝幻想-玛琪拉</summary>
   
   ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/gbf-%E7%8E%9B%E7%90%AA%E6%8B%89.jpg)
 </details>
@@ -133,4 +150,28 @@
   <summary>碧蓝航线-小天城</summary>
   
   ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E7%A2%A7%E8%93%9D%E8%88%AA%E7%BA%BF-%E5%B0%8F%E5%A4%A9%E5%9F%8E.jpg)
+</details>
+
+<details>
+  <summary>碧蓝档案-美游</summary>
+  
+  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E7%A2%A7%E8%93%9D%E6%A1%A3%E6%A1%88-%E7%BE%8E%E6%B8%B8.jpg)
+</details>
+
+<details>
+  <summary>碧蓝档案-梓</summary>
+  
+  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E7%A2%A7%E8%93%9D%E6%A1%A3%E6%A1%88-%E6%A2%93.jpg)
+</details>
+
+<details>
+  <summary>风格-as109（nsfw注意）</summary>
+  
+  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/as109.jpg)
+</details>
+
+<details>
+  <summary>风格-毛玉牛乳（nsfw注意）</summary>
+  
+  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/kedama.jpg)
 </details>
