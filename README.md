@@ -59,7 +59,7 @@
   
   下面视频中也有讲解使用方法：
   
-  【【NovelAI】公主连接-可可萝、碧蓝航线-小天城模型、keta风格重制（含使用方法讲解）】 https://www.bilibili.com/video/BV1bP4y1S7DA/?share_source=copy_web&vd_source=e79365640d1097b8c8937eac877c95bd
+  [【【NovelAI】公主连接-可可萝、碧蓝航线-小天城模型、keta风格重制（含使用方法讲解）】](https://www.bilibili.com/video/BV1bP4y1S7DA/?share_source=copy_web&vd_source=e79365640d1097b8c8937eac877c95bd)
 
 2.我生成的图跟你的怎么不一样？
   - 首先确保使用的sd模型文件为【animefull-latest.ckpt[**e6e8elfc**]】或者【animesfw-latest.ckpt[**202fcec0**]】
