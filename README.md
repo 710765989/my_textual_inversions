@@ -50,7 +50,7 @@
 
 # Q&A
 
-1.怎么使用pt模型？
+**1.怎么使用pt模型？**
 
   - 将下载的pt模型文件放到`stable-diffusion-webui\embeddings`目录下
   - 在描述词区域填写pt文件名作为prompt
@@ -61,7 +61,7 @@
   
   [【【NovelAI】公主连接-可可萝、碧蓝航线-小天城模型、keta风格重制（含使用方法讲解）】](https://www.bilibili.com/video/BV1bP4y1S7DA/?share_source=copy_web&vd_source=e79365640d1097b8c8937eac877c95bd)
 
-2.我生成的图跟你的怎么不一样？
+**2.我生成的图跟你的怎么不一样？**
   - 首先确保使用的sd模型文件为【animefull-latest.ckpt[**e6e8elfc**]】或者【animesfw-latest.ckpt[**202fcec0**]】
     - 不要看文件名 看文件名后面的**哈希码** 文件名可以随意修改 哈希码不能 确保使用的是以上两个sd模型才能保证跟我生成的效果一致
   - 把settings中的【Stop At last layers of CLIP model】改成2才能生效 (*如果没有这个选项请更新webui的代码)
