@@ -179,3 +179,21 @@
   
   ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/kedama.jpg)
 </details>
+
+<details>
+  <summary>风格-多娜多娜</summary>
+  
+  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/donadona.jpg)
+</details>
+
+<details>
+  <summary>风格-torino</summary>
+  
+  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/torino.jpg)
+</details>
+
+<details>
+  <summary>角色-原神-神里</summary>
+  
+  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E7%A5%9E%E9%87%8C.jpg)
+</details>
