@@ -53,6 +53,13 @@
   - 风格模型
     - 多娜多娜 (style-donadona)
     - torino (style-torino)
+- 2022.12.4
+  - 角色模型
+    - 【碧蓝航线-恶毒】
+  - 风格模型
+    - anmi(style-anmi)
+    - 白玉(style-白玉)
+    - as109-v2(style-as109-v2)
 
 # Q&A
 
@@ -92,6 +99,7 @@
 - 碧蓝档案-梓
 - 碧蓝档案-美游
 - 原神-神里
+- 碧蓝航线-恶毒
 
 风格模型：
 
@@ -117,6 +125,10 @@
   - 毛玉牛乳
 - 多娜多娜
 - torino
+- anmi
+- 白玉
+- as109-v2
+  - 重制了水叔画风模型
 
 后续有更新也会往这里上传
 
@@ -205,4 +217,28 @@
   <summary>角色-原神-神里</summary>
   
   ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E7%A5%9E%E9%87%8C.jpg)
+</details>
+
+<details>
+  <summary>角色-碧蓝航线-恶毒</summary>
+  
+  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%88%90%E5%93%81%E5%9B%BE/%E6%8C%89%E6%97%A5%E6%9C%9F%E5%88%86/20221204/%E7%A2%A7%E8%93%9D%E8%88%AA%E7%BA%BF-%E6%81%B6%E6%AF%92.jpg)
+</details>
+
+<details>
+  <summary>风格-anmi</summary>
+  
+  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%88%90%E5%93%81%E5%9B%BE/%E6%8C%89%E6%97%A5%E6%9C%9F%E5%88%86/20221204/style-anmi.jpg)
+</details>
+
+<details>
+  <summary>风格-白玉</summary>
+  
+  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%88%90%E5%93%81%E5%9B%BE/%E6%8C%89%E6%97%A5%E6%9C%9F%E5%88%86/20221204/style-%E7%99%BD%E7%8E%89.jpg)
+</details>
+
+<details>
+  <summary>风格-as109-v2</summary>
+  
+  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%88%90%E5%93%81%E5%9B%BE/%E6%8C%89%E6%97%A5%E6%9C%9F%E5%88%86/20221204/style-as109-v2.jpg)
 </details>
